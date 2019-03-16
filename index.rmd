@@ -1,4 +1,4 @@
-#Setting the environment a the lOADING Libraries
+#Setting the environment and lOADING the Libraries
 setwd("~/PML Project")
 library(caret)
 library(knitr)
